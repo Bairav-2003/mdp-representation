@@ -37,12 +37,12 @@ Moving Right
 
 2.0 - Otherwise
 ### Graphical Representation
-![RL_page-0001](https://github.com/Dhanudhanaraj/mdp-representation/assets/119218812/c9c5fc75-92d5-4db0-a372-212edbb438c1)
+![img1](https://github.com/Bairav-2003/mdp-representation/assets/94154692/20fdfaf2-27a8-4c98-8e5b-0029b7a262e1)
 
 ## PYTHON REPRESENTATION:
 ```
-# Developed by: DHANUMALYA D
-# Register Number: 212222230030
+# Developed by: Bairav Skandan Loha
+# Register Number: 212221230010
 
 P = {
     0:{
